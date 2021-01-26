@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600793543 source:e:\ws\crossingroad\main.cpp
+	<iostream>
+	<deque>
+	<stdlib.h>
+	<vector>
+	<conio.h>
+	<time.h>
+
